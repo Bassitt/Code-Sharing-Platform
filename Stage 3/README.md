@@ -37,8 +37,7 @@ Response:
 
 Request: GET /api/code/latest
 Response:
-<pre>
-[
+<pre>[
     {
         "code": "public static void ...",
         "date": "2020/05/05 12:00:43"
